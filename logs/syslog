@@ -1,0 +1,181 @@
+Mar 29 00:00:06 shekhar-ThinkPad-T440s systemd[1]: logrotate.service: Deactivated successfully.
+Mar 29 00:00:06 shekhar-ThinkPad-T440s systemd[1]: Finished Rotate log files.
+Mar 29 00:05:06 shekhar-ThinkPad-T440s google-chrome.desktop[501180]: [921760:921760:0329/000506.196352:ERROR:base/memory/shared_memory_switch.cc:289] Failed global descriptor lookup: 7
+Mar 29 00:12:44 shekhar-ThinkPad-T440s dnsmasq-dhcp[1256]: DHCPREQUEST(virbr0) 192.168.122.84 52:54:00:8a:cb:fe 
+Mar 29 00:12:44 shekhar-ThinkPad-T440s dnsmasq-dhcp[1256]: DHCPACK(virbr0) 192.168.122.84 52:54:00:8a:cb:fe rohit-Standard-PC-Q35-ICH9-2009
+Mar 29 00:17:01 shekhar-ThinkPad-T440s CRON[922010]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 29 00:20:44 shekhar-ThinkPad-T440s NetworkManager[624306]: <info>  [1774723844.0755] manager: NetworkManager state is now CONNECTED_SITE
+Mar 29 00:20:44 shekhar-ThinkPad-T440s systemd[1]: Starting Network Manager Script Dispatcher Service...
+Mar 29 00:20:44 shekhar-ThinkPad-T440s dbus-daemon[705]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service' requested by ':1.877' (uid=0 pid=624306 comm="/usr/sbin/NetworkManager --no-daemon " label="unconfined")
+Mar 29 00:20:44 shekhar-ThinkPad-T440s systemd[1]: Started Network Manager Script Dispatcher Service.
+Mar 29 00:20:44 shekhar-ThinkPad-T440s dbus-daemon[705]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Mar 29 00:20:44 shekhar-ThinkPad-T440s NetworkManager[624306]: <info>  [1774723844.9972] manager: NetworkManager state is now CONNECTED_GLOBAL
+Mar 29 00:20:55 shekhar-ThinkPad-T440s systemd[1]: NetworkManager-dispatcher.service: Deactivated successfully.
+Mar 29 00:29:23 shekhar-ThinkPad-T440s wpa_supplicant[328090]: wlp3s0: WPA: Group rekeying completed with 98:ba:5f:f1:7a:75 [GTK=TKIP]
+Mar 29 00:30:44 shekhar-ThinkPad-T440s NetworkManager[624306]: <info>  [1774724444.9720] manager: NetworkManager state is now CONNECTED_SITE
+Mar 29 00:30:44 shekhar-ThinkPad-T440s dbus-daemon[705]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service' requested by ':1.877' (uid=0 pid=624306 comm="/usr/sbin/NetworkManager --no-daemon " label="unconfined")
+Mar 29 00:30:44 shekhar-ThinkPad-T440s systemd[1]: Starting Network Manager Script Dispatcher Service...
+Mar 29 00:30:44 shekhar-ThinkPad-T440s dbus-daemon[705]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Mar 29 00:30:45 shekhar-ThinkPad-T440s systemd[1]: Started Network Manager Script Dispatcher Service.
+Mar 29 00:30:45 shekhar-ThinkPad-T440s NetworkManager[624306]: <info>  [1774724445.9958] manager: NetworkManager state is now CONNECTED_GLOBAL
+Mar 29 00:30:56 shekhar-ThinkPad-T440s systemd[1]: NetworkManager-dispatcher.service: Deactivated successfully.
+Mar 29 00:40:08 shekhar-ThinkPad-T440s dnsmasq-dhcp[1256]: DHCPREQUEST(virbr0) 192.168.122.84 52:54:00:8a:cb:fe 
+Mar 29 00:40:08 shekhar-ThinkPad-T440s dnsmasq-dhcp[1256]: DHCPACK(virbr0) 192.168.122.84 52:54:00:8a:cb:fe rohit-Standard-PC-Q35-ICH9-2009
+Mar 29 00:41:58 shekhar-ThinkPad-T440s NetworkManager[624306]: <info>  [1774725118.5913] dhcp4 (wlp3s0): state changed new lease, address=192.168.0.10
+Mar 29 00:45:41 shekhar-ThinkPad-T440s systemd[1]: Starting Daily apt download activities...
+Mar 29 00:45:42 shekhar-ThinkPad-T440s systemd[1]: Starting Update APT News...
+Mar 29 00:45:42 shekhar-ThinkPad-T440s systemd[1]: Starting Update the local ESM caches...
+Mar 29 00:45:43 shekhar-ThinkPad-T440s systemd[1]: apt-news.service: Deactivated successfully.
+Mar 29 00:45:43 shekhar-ThinkPad-T440s systemd[1]: Finished Update APT News.
+Mar 29 00:45:44 shekhar-ThinkPad-T440s systemd[1]: esm-cache.service: Deactivated successfully.
+Mar 29 00:45:44 shekhar-ThinkPad-T440s systemd[1]: Finished Update the local ESM caches.
+Mar 29 00:45:45 shekhar-ThinkPad-T440s NetworkManager[624306]: <info>  [1774725345.9877] manager: NetworkManager state is now CONNECTED_SITE
+Mar 29 00:45:45 shekhar-ThinkPad-T440s dbus-daemon[705]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service' requested by ':1.877' (uid=0 pid=624306 comm="/usr/sbin/NetworkManager --no-daemon " label="unconfined")
+Mar 29 00:45:46 shekhar-ThinkPad-T440s systemd[1]: Starting Network Manager Script Dispatcher Service...
+Mar 29 00:45:46 shekhar-ThinkPad-T440s dbus-daemon[705]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Mar 29 00:45:46 shekhar-ThinkPad-T440s systemd[1]: Started Network Manager Script Dispatcher Service.
+Mar 29 00:45:49 shekhar-ThinkPad-T440s NetworkManager[624306]: <info>  [1774725349.0552] manager: NetworkManager state is now CONNECTED_GLOBAL
+Mar 29 00:45:59 shekhar-ThinkPad-T440s systemd[1]: NetworkManager-dispatcher.service: Deactivated successfully.
+Mar 29 00:46:02 shekhar-ThinkPad-T440s systemd[1]: apt-daily.service: Deactivated successfully.
+Mar 29 00:46:02 shekhar-ThinkPad-T440s systemd[1]: Finished Daily apt download activities.
+Mar 29 00:46:02 shekhar-ThinkPad-T440s systemd[1]: apt-daily.service: Consumed 13.518s CPU time.
+Mar 29 00:46:26 shekhar-ThinkPad-T440s systemd[1]: Starting Download data for packages that failed at package install time...
+Mar 29 00:46:27 shekhar-ThinkPad-T440s systemd[1]: update-notifier-download.service: Deactivated successfully.
+Mar 29 00:46:27 shekhar-ThinkPad-T440s systemd[1]: Finished Download data for packages that failed at package install time.
+Mar 29 00:55:48 shekhar-ThinkPad-T440s NetworkManager[624306]: <info>  [1774725948.9376] manager: NetworkManager state is now CONNECTED_SITE
+Mar 29 00:55:48 shekhar-ThinkPad-T440s systemd[1]: Starting Network Manager Script Dispatcher Service...
+Mar 29 00:55:48 shekhar-ThinkPad-T440s dbus-daemon[705]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service' requested by ':1.877' (uid=0 pid=624306 comm="/usr/sbin/NetworkManager --no-daemon " label="unconfined")
+Mar 29 00:55:48 shekhar-ThinkPad-T440s systemd[1]: Started Network Manager Script Dispatcher Service.
+Mar 29 00:55:48 shekhar-ThinkPad-T440s dbus-daemon[705]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Mar 29 00:55:49 shekhar-ThinkPad-T440s NetworkManager[624306]: <info>  [1774725949.9600] manager: NetworkManager state is now CONNECTED_GLOBAL
+Mar 29 00:55:59 shekhar-ThinkPad-T440s systemd[1]: NetworkManager-dispatcher.service: Deactivated successfully.
+Mar 29 00:56:57 shekhar-ThinkPad-T440s systemd[1]: Starting Cleanup of Temporary Directories...
+Mar 29 00:56:58 shekhar-ThinkPad-T440s systemd[1]: systemd-tmpfiles-clean.service: Deactivated successfully.
+Mar 29 00:56:58 shekhar-ThinkPad-T440s systemd[1]: Finished Cleanup of Temporary Directories.
+Mar 29 01:07:43 shekhar-ThinkPad-T440s dnsmasq-dhcp[1256]: DHCPREQUEST(virbr0) 192.168.122.84 52:54:00:8a:cb:fe 
+Mar 29 01:07:43 shekhar-ThinkPad-T440s dnsmasq-dhcp[1256]: DHCPACK(virbr0) 192.168.122.84 52:54:00:8a:cb:fe rohit-Standard-PC-Q35-ICH9-2009
+Mar 29 01:17:01 shekhar-ThinkPad-T440s CRON[923619]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 29 01:29:25 shekhar-ThinkPad-T440s wpa_supplicant[328090]: wlp3s0: WPA: Group rekeying completed with 98:ba:5f:f1:7a:75 [GTK=TKIP]
+Mar 29 01:35:45 shekhar-ThinkPad-T440s dnsmasq-dhcp[1256]: DHCPREQUEST(virbr0) 192.168.122.84 52:54:00:8a:cb:fe 
+Mar 29 01:35:45 shekhar-ThinkPad-T440s dnsmasq-dhcp[1256]: DHCPACK(virbr0) 192.168.122.84 52:54:00:8a:cb:fe rohit-Standard-PC-Q35-ICH9-2009
+Mar 29 01:41:58 shekhar-ThinkPad-T440s NetworkManager[624306]: <info>  [1774728718.5807] dhcp4 (wlp3s0): state changed new lease, address=192.168.0.10
+Mar 29 01:59:08 shekhar-ThinkPad-T440s google-chrome.desktop[501180]: [924374:924374:0329/015908.031025:ERROR:base/memory/shared_memory_switch.cc:289] Failed global descriptor lookup: 7
+Mar 29 02:00:22 shekhar-ThinkPad-T440s google-chrome.desktop[501180]: [924527:924527:0329/020022.678568:ERROR:base/memory/shared_memory_switch.cc:289] Failed global descriptor lookup: 7
+Mar 29 02:01:08 shekhar-ThinkPad-T440s google-chrome.desktop[501180]: [704663:704663:0329/020108.488538:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:252] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+Mar 29 02:01:28 shekhar-ThinkPad-T440s google-chrome.desktop[501180]: [924700:924700:0329/020128.811132:ERROR:base/memory/shared_memory_switch.cc:289] Failed global descriptor lookup: 7
+Mar 29 02:01:53 shekhar-ThinkPad-T440s google-chrome.desktop[501180]: [924769:924769:0329/020153.916811:ERROR:base/memory/shared_memory_switch.cc:289] Failed global descriptor lookup: 7
+Mar 29 02:02:24 shekhar-ThinkPad-T440s google-chrome.desktop[501180]: [704663:704663:0329/020224.863416:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:252] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+Mar 29 02:03:13 shekhar-ThinkPad-T440s google-chrome.desktop[501180]: [924932:924932:0329/020313.402487:ERROR:base/memory/shared_memory_switch.cc:289] Failed global descriptor lookup: 7
+Mar 29 02:03:52 shekhar-ThinkPad-T440s dnsmasq-dhcp[1256]: DHCPREQUEST(virbr0) 192.168.122.84 52:54:00:8a:cb:fe 
+Mar 29 02:03:52 shekhar-ThinkPad-T440s dnsmasq-dhcp[1256]: DHCPACK(virbr0) 192.168.122.84 52:54:00:8a:cb:fe rohit-Standard-PC-Q35-ICH9-2009
+Mar 29 02:17:01 shekhar-ThinkPad-T440s CRON[925296]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 29 02:27:13 shekhar-ThinkPad-T440s systemd[1]: Starting Process error reports when automatic reporting is enabled...
+Mar 29 02:27:13 shekhar-ThinkPad-T440s systemd[1]: apport-autoreport.service: Deactivated successfully.
+Mar 29 02:27:13 shekhar-ThinkPad-T440s systemd[1]: Finished Process error reports when automatic reporting is enabled.
+Mar 29 02:29:27 shekhar-ThinkPad-T440s wpa_supplicant[328090]: wlp3s0: WPA: Group rekeying completed with 98:ba:5f:f1:7a:75 [GTK=TKIP]
+Mar 29 02:29:40 shekhar-ThinkPad-T440s wpa_supplicant[328090]: wlp3s0: CTRL-EVENT-SIGNAL-CHANGE above=1 signal=-36 noise=9999 txrate=866700
+Mar 29 02:30:18 shekhar-ThinkPad-T440s dnsmasq-dhcp[1256]: DHCPREQUEST(virbr0) 192.168.122.84 52:54:00:8a:cb:fe 
+Mar 29 02:30:18 shekhar-ThinkPad-T440s dnsmasq-dhcp[1256]: DHCPACK(virbr0) 192.168.122.84 52:54:00:8a:cb:fe rohit-Standard-PC-Q35-ICH9-2009
+Mar 29 02:41:58 shekhar-ThinkPad-T440s NetworkManager[624306]: <info>  [1774732318.6010] dhcp4 (wlp3s0): state changed new lease, address=192.168.0.10
+Mar 29 02:58:16 shekhar-ThinkPad-T440s dnsmasq-dhcp[1256]: DHCPREQUEST(virbr0) 192.168.122.84 52:54:00:8a:cb:fe 
+Mar 29 02:58:16 shekhar-ThinkPad-T440s dnsmasq-dhcp[1256]: DHCPACK(virbr0) 192.168.122.84 52:54:00:8a:cb:fe rohit-Standard-PC-Q35-ICH9-2009
+Mar 29 03:00:49 shekhar-ThinkPad-T440s NetworkManager[624306]: <info>  [1774733449.9806] manager: NetworkManager state is now CONNECTED_SITE
+Mar 29 03:00:49 shekhar-ThinkPad-T440s dbus-daemon[705]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service' requested by ':1.877' (uid=0 pid=624306 comm="/usr/sbin/NetworkManager --no-daemon " label="unconfined")
+Mar 29 03:00:49 shekhar-ThinkPad-T440s systemd[1]: Starting Network Manager Script Dispatcher Service...
+Mar 29 03:00:50 shekhar-ThinkPad-T440s dbus-daemon[705]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Mar 29 03:00:50 shekhar-ThinkPad-T440s systemd[1]: Started Network Manager Script Dispatcher Service.
+Mar 29 03:00:50 shekhar-ThinkPad-T440s NetworkManager[624306]: <info>  [1774733450.9060] manager: NetworkManager state is now CONNECTED_GLOBAL
+Mar 29 03:01:00 shekhar-ThinkPad-T440s systemd[1]: NetworkManager-dispatcher.service: Deactivated successfully.
+Mar 29 03:06:10 shekhar-ThinkPad-T440s NetworkManager[624306]: <info>  [1774733770.8438] manager: NetworkManager state is now CONNECTED_SITE
+Mar 29 03:06:10 shekhar-ThinkPad-T440s systemd[1]: Starting Network Manager Script Dispatcher Service...
+Mar 29 03:06:10 shekhar-ThinkPad-T440s dbus-daemon[705]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service' requested by ':1.877' (uid=0 pid=624306 comm="/usr/sbin/NetworkManager --no-daemon " label="unconfined")
+Mar 29 03:06:10 shekhar-ThinkPad-T440s systemd[1]: Started Network Manager Script Dispatcher Service.
+Mar 29 03:06:10 shekhar-ThinkPad-T440s dbus-daemon[705]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Mar 29 03:06:18 shekhar-ThinkPad-T440s NetworkManager[624306]: <info>  [1774733778.4705] manager: NetworkManager state is now CONNECTED_GLOBAL
+Mar 29 03:06:28 shekhar-ThinkPad-T440s systemd[1]: NetworkManager-dispatcher.service: Deactivated successfully.
+Mar 29 03:10:01 shekhar-ThinkPad-T440s CRON[926348]: (root) CMD (test -e /run/systemd/system || SERVICE_MODE=1 /sbin/e2scrub_all -A -r)
+Mar 29 03:10:50 shekhar-ThinkPad-T440s systemd[1]: Starting Online ext4 Metadata Check for All Filesystems...
+Mar 29 03:10:50 shekhar-ThinkPad-T440s systemd[1]: e2scrub_all.service: Deactivated successfully.
+Mar 29 03:10:50 shekhar-ThinkPad-T440s systemd[1]: Finished Online ext4 Metadata Check for All Filesystems.
+Mar 29 03:11:37 shekhar-ThinkPad-T440s NetworkManager[624306]: <info>  [1774734097.8428] manager: NetworkManager state is now CONNECTED_SITE
+Mar 29 03:11:37 shekhar-ThinkPad-T440s systemd[1]: Starting Network Manager Script Dispatcher Service...
+Mar 29 03:11:37 shekhar-ThinkPad-T440s dbus-daemon[705]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service' requested by ':1.877' (uid=0 pid=624306 comm="/usr/sbin/NetworkManager --no-daemon " label="unconfined")
+Mar 29 03:11:37 shekhar-ThinkPad-T440s systemd[1]: Started Network Manager Script Dispatcher Service.
+Mar 29 03:11:37 shekhar-ThinkPad-T440s dbus-daemon[705]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Mar 29 03:11:39 shekhar-ThinkPad-T440s NetworkManager[624306]: <info>  [1774734099.4331] manager: NetworkManager state is now CONNECTED_GLOBAL
+Mar 29 03:11:49 shekhar-ThinkPad-T440s systemd[1]: NetworkManager-dispatcher.service: Deactivated successfully.
+Mar 29 03:16:58 shekhar-ThinkPad-T440s NetworkManager[624306]: <info>  [1774734418.8451] manager: NetworkManager state is now CONNECTED_SITE
+Mar 29 03:16:58 shekhar-ThinkPad-T440s systemd[1]: Starting Network Manager Script Dispatcher Service...
+Mar 29 03:16:58 shekhar-ThinkPad-T440s dbus-daemon[705]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service' requested by ':1.877' (uid=0 pid=624306 comm="/usr/sbin/NetworkManager --no-daemon " label="unconfined")
+Mar 29 03:16:58 shekhar-ThinkPad-T440s systemd[1]: Started Network Manager Script Dispatcher Service.
+Mar 29 03:16:58 shekhar-ThinkPad-T440s dbus-daemon[705]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Mar 29 03:16:59 shekhar-ThinkPad-T440s NetworkManager[624306]: <info>  [1774734419.4881] manager: NetworkManager state is now CONNECTED_GLOBAL
+Mar 29 03:17:01 shekhar-ThinkPad-T440s CRON[926491]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 29 03:17:09 shekhar-ThinkPad-T440s systemd[1]: NetworkManager-dispatcher.service: Deactivated successfully.
+Mar 29 03:22:18 shekhar-ThinkPad-T440s NetworkManager[624306]: <info>  [1774734738.8418] manager: NetworkManager state is now CONNECTED_SITE
+Mar 29 03:22:18 shekhar-ThinkPad-T440s systemd[1]: Starting Network Manager Script Dispatcher Service...
+Mar 29 03:22:18 shekhar-ThinkPad-T440s dbus-daemon[705]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service' requested by ':1.877' (uid=0 pid=624306 comm="/usr/sbin/NetworkManager --no-daemon " label="unconfined")
+Mar 29 03:22:18 shekhar-ThinkPad-T440s systemd[1]: Started Network Manager Script Dispatcher Service.
+Mar 29 03:22:18 shekhar-ThinkPad-T440s dbus-daemon[705]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Mar 29 03:22:19 shekhar-ThinkPad-T440s NetworkManager[624306]: <info>  [1774734739.3855] manager: NetworkManager state is now CONNECTED_GLOBAL
+Mar 29 03:22:29 shekhar-ThinkPad-T440s systemd[1]: NetworkManager-dispatcher.service: Deactivated successfully.
+Mar 29 03:25:44 shekhar-ThinkPad-T440s dnsmasq-dhcp[1256]: DHCPREQUEST(virbr0) 192.168.122.84 52:54:00:8a:cb:fe 
+Mar 29 03:25:44 shekhar-ThinkPad-T440s dnsmasq-dhcp[1256]: DHCPACK(virbr0) 192.168.122.84 52:54:00:8a:cb:fe rohit-Standard-PC-Q35-ICH9-2009
+Mar 29 03:29:29 shekhar-ThinkPad-T440s wpa_supplicant[328090]: wlp3s0: WPA: Group rekeying completed with 98:ba:5f:f1:7a:75 [GTK=TKIP]
+Mar 29 03:30:01 shekhar-ThinkPad-T440s CRON[926732]: (root) CMD (test -e /run/systemd/system || SERVICE_MODE=1 /usr/lib/x86_64-linux-gnu/e2fsprogs/e2scrub_all_cron)
+Mar 29 03:41:58 shekhar-ThinkPad-T440s NetworkManager[624306]: <info>  [1774735918.5863] dhcp4 (wlp3s0): state changed new lease, address=192.168.0.10
+Mar 29 03:42:38 shekhar-ThinkPad-T440s NetworkManager[624306]: <info>  [1774735958.8417] manager: NetworkManager state is now CONNECTED_SITE
+Mar 29 03:42:38 shekhar-ThinkPad-T440s dbus-daemon[705]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service' requested by ':1.877' (uid=0 pid=624306 comm="/usr/sbin/NetworkManager --no-daemon " label="unconfined")
+Mar 29 03:42:38 shekhar-ThinkPad-T440s systemd[1]: Starting Network Manager Script Dispatcher Service...
+Mar 29 03:42:38 shekhar-ThinkPad-T440s dbus-daemon[705]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Mar 29 03:42:38 shekhar-ThinkPad-T440s systemd[1]: Started Network Manager Script Dispatcher Service.
+Mar 29 03:42:40 shekhar-ThinkPad-T440s NetworkManager[624306]: <info>  [1774735960.3334] manager: NetworkManager state is now CONNECTED_GLOBAL
+Mar 29 03:42:50 shekhar-ThinkPad-T440s systemd[1]: NetworkManager-dispatcher.service: Deactivated successfully.
+Mar 29 03:47:41 shekhar-ThinkPad-T440s systemd[1]: Starting Refresh fwupd metadata and update motd...
+Mar 29 03:47:42 shekhar-ThinkPad-T440s dbus-daemon[705]: [system] Activating via systemd: service name='org.freedesktop.fwupd' unit='fwupd.service' requested by ':1.1661' (uid=118 pid=927231 comm="/usr/bin/fwupdmgr refresh " label="unconfined")
+Mar 29 03:47:42 shekhar-ThinkPad-T440s systemd[1]: Starting Firmware update daemon...
+Mar 29 03:47:43 shekhar-ThinkPad-T440s fwupd[927236]: 22:17:43:0343 FuEngine             no GUIDs for device TPM [dfb1a4db3787a1799167fb68010ef732c71041f9]
+Mar 29 03:47:43 shekhar-ThinkPad-T440s fwupd[927236]: 22:17:43:0673 FuEngine             failed to add device /sys/devices/pci0000:00/0000:00:1f.0/intel-spi/spi_master/spi0/spi0.0/mtd/mtd0ro: attribute size returned no data
+Mar 29 03:47:44 shekhar-ThinkPad-T440s fwupd[927236]: 22:17:44:0821 FuEngine             failed to add device /sys/devices/pnp0/00:05/tpm/tpm0: failed to initialize TPM
+Mar 29 03:47:45 shekhar-ThinkPad-T440s dbus-daemon[705]: [system] Successfully activated service 'org.freedesktop.fwupd'
+Mar 29 03:47:45 shekhar-ThinkPad-T440s systemd[1]: Started Firmware update daemon.
+Mar 29 03:47:45 shekhar-ThinkPad-T440s fwupd[927236]: 22:17:45:0237 FuPluginPciMei       ME family not supported for 0:9.5.30.1808
+Mar 29 03:47:45 shekhar-ThinkPad-T440s systemd[1]: fwupd-refresh.service: Deactivated successfully.
+Mar 29 03:47:45 shekhar-ThinkPad-T440s systemd[1]: Finished Refresh fwupd metadata and update motd.
+Mar 29 03:47:59 shekhar-ThinkPad-T440s NetworkManager[624306]: <info>  [1774736279.8415] manager: NetworkManager state is now CONNECTED_SITE
+Mar 29 03:47:59 shekhar-ThinkPad-T440s dbus-daemon[705]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service' requested by ':1.877' (uid=0 pid=624306 comm="/usr/sbin/NetworkManager --no-daemon " label="unconfined")
+Mar 29 03:47:59 shekhar-ThinkPad-T440s systemd[1]: Starting Network Manager Script Dispatcher Service...
+Mar 29 03:47:59 shekhar-ThinkPad-T440s dbus-daemon[705]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Mar 29 03:47:59 shekhar-ThinkPad-T440s systemd[1]: Started Network Manager Script Dispatcher Service.
+Mar 29 03:48:00 shekhar-ThinkPad-T440s NetworkManager[624306]: <info>  [1774736280.3314] manager: NetworkManager state is now CONNECTED_GLOBAL
+Mar 29 03:48:10 shekhar-ThinkPad-T440s systemd[1]: NetworkManager-dispatcher.service: Deactivated successfully.
+Mar 29 03:52:19 shekhar-ThinkPad-T440s dnsmasq-dhcp[1256]: DHCPREQUEST(virbr0) 192.168.122.84 52:54:00:8a:cb:fe 
+Mar 29 03:52:19 shekhar-ThinkPad-T440s dnsmasq-dhcp[1256]: DHCPACK(virbr0) 192.168.122.84 52:54:00:8a:cb:fe rohit-Standard-PC-Q35-ICH9-2009
+Mar 29 03:53:17 shekhar-ThinkPad-T440s dbus-daemon[1715]: [session uid=1000 pid=1715] Activating via systemd: service name='org.freedesktop.Tracker3.Miner.Extract' unit='tracker-extract-3.service' requested by ':1.79' (uid=1000 pid=2260 comm="/usr/libexec/tracker-miner-fs-3 " label="unconfined")
+Mar 29 03:53:17 shekhar-ThinkPad-T440s systemd[1686]: Starting Tracker metadata extractor...
+Mar 29 03:53:18 shekhar-ThinkPad-T440s dbus-daemon[1715]: [session uid=1000 pid=1715] Successfully activated service 'org.freedesktop.Tracker3.Miner.Extract'
+Mar 29 03:53:18 shekhar-ThinkPad-T440s systemd[1686]: Started Tracker metadata extractor.
+Mar 29 04:05:43 shekhar-ThinkPad-T440s systemd[1686]: Started VTE child process 927676 launched by gnome-terminal-server process 437979.
+Mar 29 04:06:16 shekhar-ThinkPad-T440s update-notifier[3249]: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+Mar 29 04:06:16 shekhar-ThinkPad-T440s update-notifier[3249]: message repeated 3 times: [ gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed]
+Mar 29 04:06:19 shekhar-ThinkPad-T440s dbus-daemon[705]: [system] Activating via systemd: service name='net.reactivated.Fprint' unit='fprintd.service' requested by ':1.78' (uid=1000 pid=1862 comm="/usr/bin/gnome-shell " label="unconfined")
+Mar 29 04:06:19 shekhar-ThinkPad-T440s systemd[1]: Starting Fingerprint Authentication Daemon...
+Mar 29 04:06:19 shekhar-ThinkPad-T440s dbus-daemon[705]: [system] Successfully activated service 'net.reactivated.Fprint'
+Mar 29 04:06:19 shekhar-ThinkPad-T440s systemd[1]: Started Fingerprint Authentication Daemon.
+Mar 29 04:06:32 shekhar-ThinkPad-T440s NetworkManager[624306]: <info>  [1774737392.3739] agent-manager: agent[c347134fe43a2ec6,:1.78/org.gnome.Shell.NetworkAgent/1000]: agent registered
+Mar 29 04:06:32 shekhar-ThinkPad-T440s ubuntu-appindicators@ubuntu.com[1862]: unable to update icon for software-update-available
+Mar 29 04:06:32 shekhar-ThinkPad-T440s ubuntu-appindicators@ubuntu.com[1862]: unable to update icon for livepatch
+Mar 29 04:06:33 shekhar-ThinkPad-T440s gnome-shell[1862]: Window manager warning: Overwriting existing binding of keysym 33 with keysym 33 (keycode c).
+Mar 29 04:06:33 shekhar-ThinkPad-T440s gnome-shell[1862]: Window manager warning: Overwriting existing binding of keysym 32 with keysym 32 (keycode b).
+Mar 29 04:06:33 shekhar-ThinkPad-T440s gnome-shell[1862]: Window manager warning: Overwriting existing binding of keysym 34 with keysym 34 (keycode d).
+Mar 29 04:06:33 shekhar-ThinkPad-T440s gnome-shell[1862]: Window manager warning: Overwriting existing binding of keysym 35 with keysym 35 (keycode e).
+Mar 29 04:06:33 shekhar-ThinkPad-T440s gnome-shell[1862]: Window manager warning: Overwriting existing binding of keysym 36 with keysym 36 (keycode f).
+Mar 29 04:06:33 shekhar-ThinkPad-T440s gnome-shell[1862]: Window manager warning: Overwriting existing binding of keysym 31 with keysym 31 (keycode a).
+Mar 29 04:06:33 shekhar-ThinkPad-T440s gnome-shell[1862]: Window manager warning: Overwriting existing binding of keysym 37 with keysym 37 (keycode 10).
+Mar 29 04:06:33 shekhar-ThinkPad-T440s gnome-shell[1862]: Window manager warning: Overwriting existing binding of keysym 38 with keysym 38 (keycode 11).
+Mar 29 04:06:33 shekhar-ThinkPad-T440s gnome-shell[1862]: Window manager warning: Overwriting existing binding of keysym 39 with keysym 39 (keycode 12).
+Mar 29 04:06:33 shekhar-ThinkPad-T440s dbus-daemon[1715]: [session uid=1000 pid=1715] Activating service name='org.gnome.ArchiveManager1' requested by ':1.409' (uid=1000 pid=927748 comm="gjs /usr/share/gnome-shell/extensions/ding@rasters" label="unconfined")
+Mar 29 04:06:34 shekhar-ThinkPad-T440s dbus-daemon[1715]: [session uid=1000 pid=1715] Successfully activated service 'org.gnome.ArchiveManager1'
+Mar 29 04:06:34 shekhar-ThinkPad-T440s gnome-shell[1862]: DING: Detected async api for thumbnails
+Mar 29 04:06:34 shekhar-ThinkPad-T440s gnome-shell[1862]: DING: GNOME nautilus 42.6
+Mar 29 04:06:49 shekhar-ThinkPad-T440s systemd[1]: fprintd.service: Deactivated successfully.

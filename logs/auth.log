@@ -1,0 +1,39 @@
+Mar 29 00:17:01 shekhar-ThinkPad-T440s CRON[922009]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar 29 00:17:01 shekhar-ThinkPad-T440s CRON[922009]: pam_unix(cron:session): session closed for user root
+Mar 29 00:35:29 shekhar-ThinkPad-T440s sshd[922282]: error: kex_exchange_identification: Connection closed by remote host
+Mar 29 00:35:29 shekhar-ThinkPad-T440s sshd[922282]: Connection closed by 192.168.0.1 port 55646
+Mar 29 00:47:53 shekhar-ThinkPad-T440s pkexec: pam_unix(polkit-1:session): session opened for user root(uid=0) by (uid=1000)
+Mar 29 00:47:53 shekhar-ThinkPad-T440s pkexec[923176]: shekhar: Executing command [USER=root] [TTY=unknown] [CWD=/home/shekhar] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Mar 29 00:50:41 shekhar-ThinkPad-T440s sshd[923208]: error: kex_exchange_identification: Connection closed by remote host
+Mar 29 00:50:41 shekhar-ThinkPad-T440s sshd[923208]: Connection closed by 192.168.0.1 port 55718
+Mar 29 00:51:35 shekhar-ThinkPad-T440s sshd[923215]: error: kex_exchange_identification: Connection closed by remote host
+Mar 29 00:51:35 shekhar-ThinkPad-T440s sshd[923215]: Connection closed by 192.168.0.1 port 55766
+Mar 29 01:17:01 shekhar-ThinkPad-T440s CRON[923618]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar 29 01:17:01 shekhar-ThinkPad-T440s CRON[923618]: pam_unix(cron:session): session closed for user root
+Mar 29 01:23:31 shekhar-ThinkPad-T440s sshd[923744]: error: kex_exchange_identification: Connection closed by remote host
+Mar 29 01:23:31 shekhar-ThinkPad-T440s sshd[923744]: Connection closed by 192.168.0.1 port 55814
+Mar 29 01:58:28 shekhar-ThinkPad-T440s sshd[924269]: error: kex_exchange_identification: Connection closed by remote host
+Mar 29 01:58:28 shekhar-ThinkPad-T440s sshd[924269]: Connection closed by 192.168.0.1 port 55874
+Mar 29 02:17:01 shekhar-ThinkPad-T440s CRON[925295]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar 29 02:17:01 shekhar-ThinkPad-T440s CRON[925295]: pam_unix(cron:session): session closed for user root
+Mar 29 02:21:53 shekhar-ThinkPad-T440s sshd[925349]: error: kex_exchange_identification: Connection closed by remote host
+Mar 29 02:21:53 shekhar-ThinkPad-T440s sshd[925349]: Connection closed by 192.168.0.1 port 55946
+Mar 29 02:30:09 shekhar-ThinkPad-T440s sshd[925493]: error: kex_exchange_identification: Connection closed by remote host
+Mar 29 02:30:09 shekhar-ThinkPad-T440s sshd[925493]: Connection closed by 192.168.0.1 port 56006
+Mar 29 02:34:14 shekhar-ThinkPad-T440s sshd[925585]: error: kex_exchange_identification: Connection closed by remote host
+Mar 29 02:34:14 shekhar-ThinkPad-T440s sshd[925585]: Connection closed by 192.168.0.1 port 56066
+Mar 29 03:10:01 shekhar-ThinkPad-T440s CRON[926347]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar 29 03:10:01 shekhar-ThinkPad-T440s CRON[926347]: pam_unix(cron:session): session closed for user root
+Mar 29 03:17:01 shekhar-ThinkPad-T440s CRON[926490]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar 29 03:17:01 shekhar-ThinkPad-T440s CRON[926490]: pam_unix(cron:session): session closed for user root
+Mar 29 03:30:01 shekhar-ThinkPad-T440s CRON[926731]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar 29 03:30:01 shekhar-ThinkPad-T440s CRON[926731]: pam_unix(cron:session): session closed for user root
+Mar 29 03:33:42 shekhar-ThinkPad-T440s sshd[926823]: error: kex_exchange_identification: Connection closed by remote host
+Mar 29 03:33:42 shekhar-ThinkPad-T440s sshd[926823]: Connection closed by 192.168.0.1 port 56128
+Mar 29 03:48:38 shekhar-ThinkPad-T440s sshd[927257]: error: kex_exchange_identification: Connection closed by remote host
+Mar 29 03:48:38 shekhar-ThinkPad-T440s sshd[927257]: Connection closed by 192.168.0.1 port 56188
+Mar 29 03:52:22 shekhar-ThinkPad-T440s sshd[927343]: error: kex_exchange_identification: Connection closed by remote host
+Mar 29 03:52:22 shekhar-ThinkPad-T440s sshd[927343]: Connection closed by 192.168.0.1 port 56248
+Mar 29 04:06:20 shekhar-ThinkPad-T440s gdm-fingerprint]: gkr-pam: no password is available for user
+Mar 29 04:06:21 shekhar-ThinkPad-T440s gdm-password]: pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty1 ruser= rhost=  user=shekhar
+Mar 29 04:06:31 shekhar-ThinkPad-T440s gdm-password]: gkr-pam: unlocked login keyring

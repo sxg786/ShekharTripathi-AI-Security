@@ -1,5 +1,3 @@
-# ShekharTripathi-AI-Security
-AI Linux Log Anomaly Detector
 # AI Linux Log Anomaly Detector
 
 ## Overview

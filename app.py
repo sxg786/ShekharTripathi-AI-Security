@@ -16,5 +16,5 @@ model = train_model(features)
 anomalies = detect_anomalies(model, features)
 
 print("Detected Anomalies:")
-for a in anomalies[:20]:
+for a in anomalies[:30]:
     print(a)

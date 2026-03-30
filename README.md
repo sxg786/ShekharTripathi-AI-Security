@@ -20,3 +20,7 @@ Helps security teams identify threats in real-time from system logs.
 - SIEM integration
 - Real-time streaming logs
 - AI model tuning
+## GUI Environment
+- This Branch provide web portal with anamolies detection
+## Caution
+- Do not use directly in Production
